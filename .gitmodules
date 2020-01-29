@@ -1,0 +1,9 @@
+[submodule "thirdparty/cpr"]
+	path = thirdparty/cpr
+	url = git@github.com:whoshuu/cpr.git
+[submodule "thirdparty/bencode.hpp"]
+	path = thirdparty/bencode.hpp
+	url = git@github.com:jimporter/bencode.hpp.git
+[submodule "thirdparty/cryptopp"]
+	path = thirdparty/cryptopp
+	url = git@github.com:weidai11/cryptopp.git
